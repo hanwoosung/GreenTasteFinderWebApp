@@ -37,12 +37,11 @@ GreenTasteFinderWebApp은 점심 식사 선택의 고민을 덜어주는 웹 애
 ## 🖼️ 프로젝트 화면
 
 ### 화면 1: **홈페이지**
-![main2](https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e)
-
-### 화면 2: **투표 화면**
-![vote](https://github.com/user-attachments/assets/e7073890-9f8b-4962-8a52-e71ecc280985)
-### 화면 3: **마이페이지**
-![mypage](https://github.com/user-attachments/assets/218b05db-9cb5-452c-bec9-74711c398892)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e" width="30%" />
+  <img src="https://github.com/user-attachments/assets/e7073890-9f8b-4962-8a52-e71ecc280985" width="30%" />
+  <img src="https://github.com/user-attachments/assets/218b05db-9cb5-452c-bec9-74711c398892" width="30%" />
+</p>
 
 
 ## 🌟 기술 스택
