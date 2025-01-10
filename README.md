@@ -1,7 +1,7 @@
 # GreenTasteFinderWebApp 🌿
 
-**GreenTasteFinderWebApp** 이 웹앱은 학생들이 학원 근처의 점심식사 장소를 손쉽게 찾아보고, 서로 투표를 통해 의견을 나눌 수 있도록 만들었습니다.
----
+GreenTasteFinderWebApp은 점심 식사 선택의 고민을 덜어주는 웹 애플리케이션입니다.
+근처 식당에 간단한 투표로 모두가 만족하는 점심 장소를 손쉽게 결정할 수 있도록 도와줍니다.
 
 ## 🚀 프로젝트 개요
 
