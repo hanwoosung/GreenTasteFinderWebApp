@@ -33,15 +33,15 @@ GreenTasteFinderWebApp은 점심 식사 선택의 고민을 덜어주는 웹 애
 - 로그인 상태에 따라 좋아요 및 즐겨찾기 상태 저장.
 - 태그 검색으로 사용자가 선호하는 카테고리 탐색.
 
-
 ## 🖼️ 프로젝트 화면
 
 ### 화면 1: **홈페이지**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e" width="30%" />
-  <img src="https://github.com/user-attachments/assets/e7073890-9f8b-4962-8a52-e71ecc280985" width="30%" />
-  <img src="https://github.com/user-attachments/assets/218b05db-9cb5-452c-bec9-74711c398892" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e" style="max-width: 30%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/e7073890-9f8b-4962-8a52-e71ecc280985" style="max-width: 30%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/218b05db-9cb5-452c-bec9-74711c398892" style="max-width: 30%; height: auto;" />
 </p>
+
 
 
 ## 🌟 기술 스택
