@@ -38,11 +38,12 @@ GreenTasteFinderWebApp은 점심 식사 선택의 고민을 덜어주는 웹 애
 ### 화면 1: **홈페이지**
 <p align="center">
   <div style="display: flex; justify-content: space-between; max-width: 90%;">
-    <img src="https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e" style="width: 30%; height: auto; border: 5px solid #ccc; padding: 10px;" />
-    <img src="https://github.com/user-attachments/assets/e7073890-9f8b-4962-8a52-e71ecc280985" style="width: 30%; height: auto; border: 5px solid #ccc; padding: 10px;" />
-    <img src="https://github.com/user-attachments/assets/218b05db-9cb5-452c-bec9-74711c398892" style="width: 30%; height: auto; border: 5px solid #ccc; padding: 10px;" />
+    <img src="https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e" style="height: 200px; width: auto; border: 5px solid #ccc; padding: 10px;" />
+    <img src="https://github.com/user-attachments/assets/e7073890-9f8b-4962-8a52-e71ecc280985" style="height: 200px; width: auto; border: 5px solid #ccc; padding: 10px;" />
+    <img src="https://github.com/user-attachments/assets/218b05db-9cb5-452c-bec9-74711c398892" style="height: 200px; width: auto; border: 5px solid #ccc; padding: 10px;" />
   </div>
 </p>
+
 
 
 
