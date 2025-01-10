@@ -35,7 +35,6 @@ GreenTasteFinderWebApp은 점심 식사 선택의 고민을 덜어주는 웹 애
 
 ## 🖼️ 프로젝트 화면
 
-### 화면 1: **홈페이지**
 <p align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/6620f215-0cbb-4528-a9dc-c5a6c3fa621e" style="height: 200px; width: 33%; object-fit: cover; border: 10px solid #ccc; border-radius: 15px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); padding: 10px;" />
